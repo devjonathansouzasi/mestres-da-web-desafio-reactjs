@@ -15,7 +15,7 @@ export const Container = styled.div`
   border-radius: 5px;
   text-decoration: none;
   background-color: ${({ theme }) => theme.colors.secondary};
-  transition: border-color 0.2s ease-in-out;
+  transition: border-color 0.2s ease-in-out, transform 0.2s ease-in-out;
 
   &:hover {
     border-color: ${({ theme }) => theme.colors.hint};
