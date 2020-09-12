@@ -1,24 +1,35 @@
 # Desafio Front End - Mestres da Web
 
-## Descrição
+### Link do projeto na web
+https://gitgubexplorer.netlify.app/
+
+### Rodar localmente
+Para rodar na sua máquina. Siga as etapas abaixo:
+  - Clone o projeto
+  - No diretorio raiz do projeto execute **yarn** para instalar as dependencias
+  - Após isto. Basta executar **yarn start** 
+
+### Sobre o desafio
+
+**Descrição**
 Olá, meu nome é Marcela. Faço parte do RH da minha empresa de desenvolvimento e atualmente estou passando por um problema. Não consigo encontrar os projetos dos desenvolvedores que nos mandam currículo. Eu preciso de um site que me mostre os detalhes de perfil e dos projetos de um desenvolvedor na plataforma GitHub, pode fazer isso pra mim?
 
-## Informações
+**Informações**
 - Utilizar a api do github
 - Prazo final 11/09/2020 - 18h
 
-## Requisitos
+**Requisitos**
 - ReactJS
 - Redux
 - Async Storage
 - Hooks
 - Styled-Components
 
-## Diferenciais
+**Diferenciais**
 - TypeScript
 - NextJS
 
-## Avaliação
+**Avaliação**
 - Organização do código
 - Criatividade das funções desenvolvidas
 - Tempo de desenvolvimento
