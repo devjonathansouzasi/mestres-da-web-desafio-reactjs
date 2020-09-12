@@ -1,6 +1,6 @@
 import React, { createContext, useCallback } from "react";
 
-import { THEME_STORAGE_LABEL } from "constants/theme";
+import { THEME_STORAGE_LABEL } from "constants/common";
 import usePersistedState from "hooks/usePersistedState";
 import { ThemeProvider as StyledThemeProvider } from "styled-components";
 import DarkMode from "styles/themes/dark";

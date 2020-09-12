@@ -4,13 +4,14 @@ import { BrowserRouter } from "react-router-dom";
 import { ThemeProvider } from "contexts/ThemeContext";
 import GlobalStyles from "styles/GlobalStyles";
 
+import Routes from "./routes";
+
 const App: React.FC = () => {
   return (
     <>
       <ThemeProvider>
         <BrowserRouter>
-          <h1>Let`s Code</h1>
-          {/* <Routes /> */}
+          <Routes />
         </BrowserRouter>
         <GlobalStyles />
       </ThemeProvider>

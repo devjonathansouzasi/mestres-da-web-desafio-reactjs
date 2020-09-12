@@ -17,10 +17,17 @@ body {
   url(${({ theme }) => (theme.title === "light" ? githubLight : githubDark)}) 
   no-repeat 70% top;
   -webkit-font-smoothing: antialiased;
+  font-size: 1px;
   transition: background-color 0.2s ease-in;
   @media(max-width: 768px){
     background-size: 80vw;
   }
+  /* @media(min-width: 768px){
+    font-size: 16px;
+  }
+  @media(min-width: 1440px){
+    font-size: 18px;
+  } */
 }
 
 #root {
