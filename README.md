@@ -1,7 +1,7 @@
 # Desafio Front End - Mestres da Web
 
 ### Link do projeto na web
-https://gitgubexplorer.netlify.app/
+https://github-explorer-app.netlify.app/
 
 ### Rodar localmente
 Para rodar na sua máquina. Siga as etapas abaixo:
